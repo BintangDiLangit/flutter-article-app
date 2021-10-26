@@ -1,4 +1,4 @@
-# informasi_wisata_app
+# Article App
 
 A new Flutter project.
 
