@@ -10,7 +10,7 @@ class MainScreen extends StatelessWidget {
         backgroundColor: Colors.deepPurpleAccent,
         // centerTitle: true,
         title: Text(
-          'Article U-App-ik',
+          'Make-Up Article App',
         ),
         elevation: 0,
       ),
